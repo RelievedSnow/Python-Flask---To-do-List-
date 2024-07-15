@@ -12,3 +12,13 @@ Flask will get installed into your environment.
 command - [./env/Scripts/activate_ps1]
 * To RUN your app.
 command - [python ./app.py]
+
+# Home Page of the app.
+![Screenshot (99)](https://github.com/user-attachments/assets/7173ebb3-f743-4142-82db-d46f84187565)
+
+# Update Records in your app.
+![Screenshot (101)](https://github.com/user-attachments/assets/db163cea-ba83-4140-8705-2ebd70102127)
+
+# Delete a Record.
+![Screenshot (103)](https://github.com/user-attachments/assets/4b2946fc-6f05-4191-ad64-6be38e8caf0f)
+

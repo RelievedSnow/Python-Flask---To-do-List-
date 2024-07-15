@@ -9,6 +9,6 @@ command - [virtualenv env_name].
 command - [pip install flask].
 Flask will get installed into your environment.
 * Incase your environment stops running to re-run it.
-command - ./env/Scripts/activate_ps1
+command - [./env/Scripts/activate_ps1]
 * To RUN your app.
-command - python ./app.py
+command - [python ./app.py]
